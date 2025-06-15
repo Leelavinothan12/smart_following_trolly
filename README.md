@@ -70,5 +70,4 @@ This project aims to improve the shopping experience—particularly for elderly 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-follow-me-trolley.git
-cd smart-follow-me-trolley
+git clone https://github.com/Leelavinothan12/smart_following_trolly.git
